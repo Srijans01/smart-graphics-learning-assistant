@@ -1,0 +1,1 @@
+# smart-graphics-learning-assistant
